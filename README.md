@@ -1,19 +1,92 @@
-# Módulo 3 - Trilha HTML
+# 🎮 Tudo Sobre a Franquia MAFIA
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
+Projeto desenvolvido com **HTML, CSS e JavaScript** como parte da **Formação em HTML da DIO (Digital Innovation One)**, com o objetivo de aplicar conceitos de **HTML semântico**, organização de layout e estruturação de conteúdo informativo.
 
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
+O site apresenta uma visão geral completa sobre a franquia **MAFIA**, abordando história, jogabilidade, influências, legado cultural e detalhes de cada jogo da série.
 
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
+---
 
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
+## 📌 Objetivo do Projeto
 
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
+Este projeto tem como objetivo praticar e consolidar conhecimentos fundamentais de desenvolvimento web, especialmente:
 
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
+* Estruturação semântica com **HTML5**
+* Organização de conteúdo em páginas informativas
+* Navegação interna com âncoras
+* Separação de responsabilidades entre HTML, CSS e JavaScript
+* Boas práticas de legibilidade e organização de código
 
+---
 
+## 🛠️ Tecnologias Utilizadas
+
+* **HTML5** – Estrutura e semântica da página
+* **CSS3** – Estilização e layout
+* **JavaScript** – Scripts básicos para interação
+* **Git & GitHub** – Versionamento e hospedagem do código
+
+---
+
+## 📂 Estrutura do Projeto
+
+```
+📁 assets
+ ┣ 📁 css
+ ┃ ┗ style.css
+ ┣ 📁 images
+ ┃ ┗ Mafia_series_logo.png
+📄 index.html
+📄 main.js
+📄 README.md
+```
+
+---
+
+## 📖 Conteúdo da Página
+
+O projeto aborda os seguintes tópicos:
+
+* 📚 **História da franquia MAFIA**
+* 🎬 Temas, influências cinematográficas e contexto histórico
+* 🎮 Jogabilidade e características principais da série
+* 🏆 Recepção crítica e legado cultural
+* 🕹️ Detalhes dos jogos:
+
+  * *Mafia: Definitive Edition (2020)*
+  * *Mafia II (2010)*
+  * *Mafia III (2016)*
+  * *Mafia: The Old Country (2025)*
+
+Além disso, conta com:
+
+* Menu lateral com links externos
+* Navegação interna por âncoras
+* Organização clara do conteúdo para melhor leitura
+
+---
+
+## 🚀 O que eu aprendi com esse projeto
+
+* Utilizar corretamente tags semânticas do HTML
+* Estruturar uma página com múltiplas seções de conteúdo
+* Criar navegação interna usando âncoras
+* Manter um código mais limpo, organizado e legível
+* Pensar na experiência do usuário ao consumir conteúdo informativo
+
+---
+
+## 🔗 Links
+
+* 🔍 **Projeto:** *(adicione aqui o link do GitHub Pages, se fizer deploy)*
+* 💼 **LinkedIn:** [Kayke Ragoso](https://www.linkedin.com/in/kayke-ragoso/)
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Kayke Ragoso**
+Estudante de desenvolvimento front-end, focado em aprendizado contínuo e construção de portfólio.
+
+---
+
+⭐ Se você gostou do projeto ou tem sugestões de melhoria, fique à vontade para contribuir ou deixar um feedback!
